@@ -5838,9 +5838,6 @@ DOMAIN-SUFFIX,skyking.com.tw
 
 #-------------------------国外网站完--------------------------------#
 
-# 锄禾的库
-DOMAIN-SUFFIX,jdsharedresourcescdn.azureedge.net
-
 # 虚拟货币交易平台
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byd3c3.com
@@ -5872,7 +5869,6 @@ DOMAIN-SUFFIX,boxjs.net
 DOMAIN-SUFFIX,boxjs.com
 DOMAIN-SUFFIX,xmanhua.com
 DOMAIN-SUFFIX,xn--7kq24s4ynvb.site
-DOMAIN-SUFFIX,ww1.12345.al
 #DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,app-analytics-services.com
