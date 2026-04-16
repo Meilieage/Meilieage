@@ -2,7 +2,7 @@
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list",
-      "target": "rule/list/ai/openai.list",
+      "target": "rule/list/ai/openai_full.list",
       "enabled": true
     },
     {
