@@ -1,1 +1,8 @@
-# Force direct rules
+# 手动直连修正规则
+
+DOMAIN-KEYWORD,223789,DIRECT
+IP-CIDR,140.179.224.63/32,DIRECT,no-resolve
+DOMAIN-SUFFIX,ninebot.com,DIRECT
+DOMAIN-SUFFIX,gateway.icloud.com,DIRECT
+DOMAIN-SUFFIX,log.trackingio.com,DIRECT
+DOMAIN-SUFFIX,cisgames.cn,DIRECT
