@@ -1,1 +1,29 @@
 # Force proxy rules
+# 手动代理修正规则
+
+DOMAIN,widgets-xd.vercel.app,"🇭🇰 香港节点"
+DOMAIN-SUFFIX,missav.ai,国外网站
+DOMAIN-SUFFIX,masobu.com,国外网站
+DOMAIN-SUFFIX,g-mh.online,国外网站
+DOMAIN-SUFFIX,mgsearcher.com,国外网站
+DOMAIN-SUFFIX,roum22.xyz,国外网站
+DOMAIN-SUFFIX,mhua5.com,国外网站
+DOMAIN-SUFFIX,92mh.com,国外网站
+DOMAIN-SUFFIX,darpou.com,国外网站
+DOMAIN-SUFFIX,manwa.me,国外网站
+DOMAIN-SUFFIX,baozimh.com,国外网站
+IP-CIDR,154.29.159.230/32,国外网站,no-resolve
+DOMAIN-SUFFIX,alphatvapp.top,国外网站
+DOMAIN-SUFFIX,nijigem.by,EMBY
+DOMAIN-KEYWORD,023168,Magpie
+DOMAIN-SUFFIX,18comic.vip,"🇭🇰 香港节点"
+DOMAIN-SUFFIX,nikke-kr.com,"🇰🇷 韩国节点"
+DOMAIN-SUFFIX,vercel.app,"🇭🇰 香港节点"
+DOMAIN-SUFFIX,deemo2-download.panart.cn,"🇭🇰 香港节点"
+DOMAIN,deemo2.rayark.download,"🇯🇵 日本节点"
+DOMAIN,2x0x0-api-phoebe.rayark.net,"🇯🇵 日本节点"
+DOMAIN,1x0-4-api-deemo2.rayark.net,"🇯🇵 日本节点"
+DOMAIN,1x0x0-api-sermo.rayark.net,"🇯🇵 日本节点"
+DOMAIN-SUFFIX,www61.sbcdnvid.com,国外网站
+DOMAIN-SUFFIX,pigav.com,国外网站
+DOMAIN-SUFFIX,app-measurement.com,"🇯🇵 日本节点"
