@@ -8,6 +8,5 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,zhihu.com
-
 # IP归属
 GEOIP,CN
