@@ -80,7 +80,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,sci-hub   
+DOMAIN-KEYWORD,sci-hub
 #Dubox
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
@@ -135,7 +135,7 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com 
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # Google IP
 IP-CIDR,35.190.247.0/24,no-resolve
 IP-CIDR,35.191.0.0/16,no-resolve
@@ -158,7 +158,7 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,173.252.0.0/16,no-resolve
 IP-CIDR,209.85.128.0/17,no-resolve
 IP-CIDR,216.58.192.0/19,no-resolve
-IP-CIDR,216.239.32.0/19,no-resolve  
+IP-CIDR,216.239.32.0/19,no-resolve
 # GoogleFCM
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -193,7 +193,7 @@ IP-CIDR,172.253.63.188/32,no-resolve
 IP-CIDR,172.253.122.188/32,no-resolve
 IP-CIDR,173.194.175.188/32,no-resolve
 IP-CIDR,173.194.218.188/32,no-resolve
-IP-CIDR,209.85.233.188/32,no-resolve 
+IP-CIDR,209.85.233.188/32,no-resolve
 #Wikipedia
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
@@ -207,9 +207,9 @@ DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-#cloudflare CDN  
+#cloudflare CDN
 DOMAIN-SUFFIX,ajax.cloudflare.com
-DOMAIN-SUFFIX,cdnjs.cloudflare.com   
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
 # GFW list
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -5577,8 +5577,7 @@ DOMAIN-SUFFIX,zyns.com
 DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
-DOMAIN-SUFFIX,zzux.com  
-
+DOMAIN-SUFFIX,zzux.com
 #-----------------------国外媒体-------------------------------
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
@@ -5594,7 +5593,6 @@ DOMAIN-SUFFIX,go.com
 # All4
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
-
 # DAZN
 DOMAIN-KEYWORD,voddazn
 DOMAIN,d151l6v8er5bdm.cloudfront.net
@@ -5622,7 +5620,6 @@ DOMAIN-SUFFIX,rest.zuora.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,vjs.zencdn.net
-
 # Deezer
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
@@ -5672,7 +5669,6 @@ DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,pbs.org
 # Pandora
 DOMAIN-SUFFIX,pandora.com
-DOMAIN-SUFFIX,pandora.tv
 # porn
 DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,phncdn.com
@@ -5696,7 +5692,7 @@ DOMAIN-SUFFIX,pornstarclub.com
 DOMAIN-SUFFIX,porntube.com
 DOMAIN-SUFFIX,porntubenews.com
 DOMAIN-SUFFIX,porntvblog.com
-DOMAIN-SUFFIX,pornvisit.com 
+DOMAIN-SUFFIX,pornvisit.com
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,bcvcdn.com
@@ -5789,7 +5785,6 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
-
 # LineTV
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
@@ -5808,7 +5803,6 @@ DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 # HBO
-
 #-----------------------港台媒体-------------------------------
 #飞流直播
 DOMAIN-SUFFIX,neulion.com
@@ -5825,7 +5819,6 @@ DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
@@ -5834,20 +5827,14 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 #TaiWanGood
-DOMAIN,hamifans.emome.net
-DOMAIN-SUFFIX,skyking.com.tw
-
 #-------------------------国外网站完--------------------------------#
-
 # 锄禾的库
 DOMAIN-SUFFIX,jdsharedresourcescdn.azureedge.net
-
 # 虚拟货币交易平台
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-app.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,bybit.com
-
 DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,jubt.ml
@@ -5859,7 +5846,6 @@ DOMAIN-SUFFIX,tgtw.cc
 DOMAIN-SUFFIX,jubt.fun
 DOMAIN-SUFFIX,huacloud.icu
 DOMAIN-SUFFIX,mcwy.me
-
 # NAME: PikPak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
@@ -5874,7 +5860,6 @@ DOMAIN-SUFFIX,xmanhua.com
 DOMAIN-SUFFIX,xn--7kq24s4ynvb.site
 DOMAIN-SUFFIX,ww1.12345.al
 #DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,uaa001.com
 DOMAIN-SUFFIX,uaa002.com
